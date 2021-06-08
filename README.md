@@ -4,7 +4,7 @@
 
 # 
 
-You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [https://aws.amazon.com/marketplace/pp/prodview-<product_id>](https://aws.amazon.com/marketplace/pp/prodview-<product_id>). 
+You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [https://aws.amazon.com/marketplace/pp/prodview-v5m5qbk6xljli?ref_=beagle&applicationId=AWSMPContessa](https://aws.amazon.com/marketplace/pp/prodview-v5m5qbk6xljli?ref_=beagle&applicationId=AWSMPContessa). 
 
 ## Main Overview
 The Food Access Research Atlas:
