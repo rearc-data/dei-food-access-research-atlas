@@ -1,6 +1,6 @@
 # 
 
-The source code outlining how this product gathers, transforms, revises and publishes its datasets is available at []().
+The source code outlining how this product gathers, transforms, revises and publishes its datasets is available at https://github.com/rearc-data/dei-food-access-research-atlas
 
 ## Main Overview
 The Food Access Research Atlas:
