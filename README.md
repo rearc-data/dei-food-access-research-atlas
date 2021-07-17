@@ -4,18 +4,23 @@
 
 # 
 
-You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [https://aws.amazon.com/marketplace/pp/prodview-<product_id>](https://aws.amazon.com/marketplace/pp/prodview-<product_id>). 
+You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [https://aws.amazon.com/marketplace/pp/prodview-v5m5qbk6xljli?ref_=beagle&applicationId=AWSMPContessa](https://aws.amazon.com/marketplace/pp/prodview-v5m5qbk6xljli?ref_=beagle&applicationId=AWSMPContessa). 
 
 ## Main Overview
+The Food Access Research Atlas:
+
+- Presents an overview of food access indicators for low-income and other census tracts using different measures of supermarket accessibility;
+- Provides food access data for populations within census tracts; and
+- Offers census-tract-level data on food access that can be downloaded for community planning or research purposes.
+
 
 #### Data Source
+[US Department of Agriculture Economic Research Service](https://www.ers.usda.gov/) 
 
 ## More Information
-- Source: <Title of dataset page> [Link]() 
-- <Link to dataset source>
-- Terms of Use: [Link]()
-- Frequency: <Weekly / Daily>
-- Formats: <CSV / TXT>
+- Source: [USDA Food Access Research Atlas](https://www.ers.usda.gov/data-products/food-access-research-atlas/) 
+- Frequency: Yearly
+- Formats: XLS
 
 ## Contact Details
 - If you find any issues with or have enhancement ideas for this product, open up a GitHub [issue]() and we will gladly take a look at it. Better yet, submit a pull request. Any contributions you make are greatly appreciated :heart:.
