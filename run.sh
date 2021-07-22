@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 REARC_DATA_PLATFORM_ROLE_ARN='arn:aws:iam::412981388937:role/CrossAccountRole-796406704065-796406704065'
 REARC_DATA_PLATFORM_EXTERNAL_ID='Rearc-Data-Platform-796406704065'
 ASSET_BUCKET='rearc-data-provider'
