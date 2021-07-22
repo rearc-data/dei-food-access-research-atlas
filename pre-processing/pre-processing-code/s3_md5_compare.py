@@ -39,6 +39,8 @@ def md5_compare(s3, bucket_name, s3_key, response):
         error_code = e.response['Error']['Code']
         if error_code == '404':
             return True
+        else:
+            raise
 
     etag = (obj_dict['ETag'])
 
