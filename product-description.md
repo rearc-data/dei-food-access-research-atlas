@@ -16,11 +16,11 @@ The Food Access Research Atlas:
 ## More Information
 - Source: [USDA Food Access Research Atlas](https://www.ers.usda.gov/data-products/food-access-research-atlas/) 
 - Frequency: Yearly
-- Formats: XLS
+- Formats: CSV
 
 ## Contact Details
-- If you find any issues with or have enhancement ideas for this product, open up a GitHub [issue]() and we will gladly take a look at it. Better yet, submit a pull request. Any contributions you make are greatly appreciated :heart:.
-- If you are looking for specific open datasets currently not available on ADX, please submit a request on our project board [here]().
+- If you find any issues with or have enhancement ideas for this product, open up a GitHub [issue](https://github.com/rearc-data/dei-food-access-research-atlas/issues) and we will gladly take a look at it. Better yet, submit a pull request. Any contributions you make are greatly appreciated :heart:.
+- If you are looking for specific open datasets currently not available on ADX, please submit a request on our project board [here](https://github.com/orgs/rearc-data/projects/1).
 - If you have questions about the source data, please contact .
 - If you have any other questions or feedback, send us an email at data@rearc.io.
 
